@@ -10,7 +10,7 @@ Source for the three public Arcadia web properties, exported from their current 
 | `arcadiaone/` | ArcadiaOne | `arcadiaone.us` |
 | `arc-horizon/` | Arc-Horizon | `arc-horizon.net` |
 
-`acs` and `arcadiaone` are React/Next-compatible Vinext projects. `arc-horizon` is a static multi-page site whose deployable files are in `arc-horizon/dist/`.
+`acs` and `arcadiaone` are standard Next.js projects. `arc-horizon` is a static multi-page site whose deployable files are in `arc-horizon/dist/`.
 
 ## Working locally
 
@@ -26,4 +26,4 @@ Use the same process for `arcadiaone`. Arc-Horizon can be previewed with any sta
 
 ## Hosting status
 
-This repository preserves the current Site source. Before moving production traffic to a VPS, the two Vinext applications should be converted to a conventional self-hosted Next.js build or packaged with a supported Node/Cloudflare runtime. DNS should remain pointed at the current Sites deployments until the replacement containers have been tested.
+This repository preserves the current website source without the ChatGPT Sites runtime and authentication scaffolding. DNS should remain pointed at the current Sites deployments until replacement containers have been built and tested on the VPS.

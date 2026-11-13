@@ -1,0 +1,15 @@
+{
+  "name": "arcadia-websites",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "workspaces": [
+    "acs",
+    "arcadiaone"
+  ],
+  "scripts": {
+    "dev:acs": "pnpm --dir acs dev",
+    "dev:arcadiaone": "pnpm --dir arcadiaone dev",
+    "build:acs": "pnpm --dir acs build",
+    "build:arcadiaone": "pnpm --dir arcadiaone build"
+  }
+}
