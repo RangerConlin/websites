@@ -70,7 +70,7 @@ Test it on a temporary address first (for example `new.arcadiacommandsolutions.c
 
 ## 5. Not included yet
 
-`arcadiaone.us` and `arc-horizon.net` still need their own conversion. Arc-Horizon has about 30 pages, so I'd do it after you've confirmed this one feels right.
+`arcadiaone.us` still needs its own conversion. Arc-Horizon has its own WordPress theme in `../arc-horizon-wordpress`.
 
 ## Building the upload zip from this repository
 

@@ -1,0 +1,152 @@
+[
+ {
+  "file": "command",
+  "slug": "command",
+  "title": "Incident Command",
+  "desc": "A command view of incident priorities, organization, and decisions."
+ },
+ {
+  "file": "communications",
+  "slug": "communications",
+  "title": "Communications",
+  "desc": "Channel plans, radio resources, and field communications."
+ },
+ {
+  "file": "documentation",
+  "slug": "documentation",
+  "title": "Documentation & Forms",
+  "desc": "Incident logs, standardized forms, and record reuse."
+ },
+ {
+  "file": "features",
+  "slug": "features",
+  "title": "Features",
+  "desc": "Explore every ArcHorizon section, including command, operations, planning, intelligence, public affairs, safety, logistics, documentation, search, and field work."
+ },
+ {
+  "file": "field",
+  "slug": "field",
+  "title": "Companion Field App",
+  "desc": "Explore the ArcHorizon companion field app: assignments, maps, status and check-in, narrative, intel, hazards, messaging, and landscape tablet use."
+ },
+ {
+  "file": "finance",
+  "slug": "finance",
+  "title": "Finance",
+  "desc": "Cost forecasts and resource consumption planning."
+ },
+ {
+  "file": "index",
+  "slug": "home",
+  "title": "Incident Command Assistant",
+  "desc": "ArcHorizon brings incident command, search planning, field teams, intelligence, and reporting into one shared operating picture."
+ },
+ {
+  "file": "intelligence",
+  "slug": "intelligence",
+  "title": "Intelligence & Information",
+  "desc": "Subjects, clues, observations, leads, and the intel record."
+ },
+ {
+  "file": "liaison",
+  "slug": "liaison",
+  "title": "Liaison",
+  "desc": "Agency status, contacts, coordination, and partner feedback."
+ },
+ {
+  "file": "logistics",
+  "slug": "logistics",
+  "title": "Logistics",
+  "desc": "Resource requests, equipment support, and accountability."
+ },
+ {
+  "file": "mapping",
+  "slug": "mapping",
+  "title": "Mapping & GIS",
+  "desc": "Operational geometry, map layers, and geographic exchange."
+ },
+ {
+  "file": "medical-safety",
+  "slug": "medical-safety",
+  "title": "Safety & Medical Support",
+  "desc": "ArcHorizon connects hazards, operational risk assessment, ground release checks, weather, medical support, and field safety reports."
+ },
+ {
+  "file": "offline",
+  "slug": "offline",
+  "title": "Offline operation",
+  "desc": "ArcHorizon is an offline-first incident command assistant with local client data, LAN and cloud connection paths, and synchronization when a connection is available."
+ },
+ {
+  "file": "open-source",
+  "slug": "open-source",
+  "title": "Open Source & Adaptability",
+  "desc": "ArcHorizon is planned for open-source release, giving organizations room to adapt incident workflows, forms, maps, and deployment to their needs."
+ },
+ {
+  "file": "operations",
+  "slug": "operations",
+  "title": "Operations",
+  "desc": "Team assignments, task progress, and operational organization."
+ },
+ {
+  "file": "planning",
+  "slug": "planning",
+  "title": "Planning",
+  "desc": "Objectives, strategies, operational periods, and planning-cycle work."
+ },
+ {
+  "file": "privacy",
+  "slug": "privacy",
+  "title": "Software Privacy Policy",
+  "desc": "Privacy policy for the ICS Command mobile companion app for ICS Command Assistant / SARApp."
+ },
+ {
+  "file": "public-affairs",
+  "slug": "public-affairs",
+  "title": "Public Affairs",
+  "desc": "Public messaging, press releases, and misinformation tracking."
+ },
+ {
+  "file": "reporting",
+  "slug": "reporting",
+  "title": "Situation Reporting",
+  "desc": "SITREP, ICS-209, and briefings from the current incident picture."
+ },
+ {
+  "file": "sar-tools",
+  "slug": "sar-tools",
+  "title": "SAR Tools",
+  "desc": "Search areas, patterns, probability planning, and SAR-specific tools."
+ },
+ {
+  "file": "situational-awareness",
+  "slug": "situational-awareness",
+  "title": "Situational Awareness",
+  "desc": "A common operating picture from live status, maps, and field reports."
+ },
+ {
+  "file": "status-boards",
+  "slug": "status-boards",
+  "title": "Status Boards",
+  "desc": "Compare team availability and assignment progress on ArcHorizon operations boards."
+ },
+ {
+  "file": "tasks",
+  "slug": "tasks",
+  "title": "Tasks & Assignments",
+  "desc": "Create, assign, map, track, and document operational tasks in ArcHorizon."
+ },
+ {
+  "file": "teams",
+  "slug": "teams",
+  "title": "Teams & Crews",
+  "desc": "Track team composition, capability, equipment, aircraft, status, and logs in ArcHorizon."
+ },
+ {
+  "file": "weather",
+  "slug": "weather",
+  "title": "Weather",
+  "desc": "Incident forecasts, aviation conditions, and alert monitoring."
+ }
+]
