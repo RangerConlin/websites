@@ -9,14 +9,14 @@ Source for the three public Arcadia web properties, exported from their current 
 | `acs/` | Arcadia Command Solutions | `arcadiacommandsolutions.com` |
 | `arcadiaone/` | ArcadiaOne | `arcadiaone.us` |
 | `arc-horizon/` | Arc-Horizon | `arc-horizon.net` |
-
 | `acs-wordpress/` | Arcadia Command Solutions (WordPress edition) | not deployed yet |
+| `arc-horizon-wordpress/` | Arc-Horizon (WordPress edition) | not deployed yet |
 
 `acs` and `arcadiaone` are standard Next.js projects. `arc-horizon` is a static multi-page site whose deployable files are in `arc-horizon/dist/`.
 
-### WordPress edition of the ACS site
+### WordPress editions
 
-`acs-wordpress/` holds a WordPress block theme (`acs-command`) that recreates the `acs/` site design as ordinary WordPress pages, so the content can be edited visually in the block editor. Activating the theme creates the pages, header, footer, and media automatically. See `acs-wordpress/INSTALL.md` for hosting and install steps. It is independent of the Next.js `acs/` project, which stays as the reference source.
+`acs-wordpress/` and `arc-horizon-wordpress/` each hold a WordPress block theme (`acs-command` and `archorizon`) that recreates the matching site as ordinary WordPress pages, so the content can be edited visually in the block editor. Activating a theme creates its pages, header, footer, and media automatically. See `INSTALL.md` in each folder for hosting and install steps. They are independent of the original `acs/` and `arc-horizon/` projects, which stay as the reference source.
 
 ## Working locally
 

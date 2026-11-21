@@ -1,0 +1,4 @@
+/* Editor-only tweaks */
+.editor-styles-wrapper .editor-post-title,.editor-styles-wrapper .editor-post-title__input,.editor-styles-wrapper .wp-block-post-title{font:800 1.6rem/1.2 Montserrat,Inter,sans-serif;text-transform:none;letter-spacing:0;max-width:none;margin:0;padding:18px 24px;color:var(--ink)}
+.editor-styles-wrapper .wp-block-post-content{margin:0}
+.editor-styles-wrapper{background:#fff}
